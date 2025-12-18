@@ -1,0 +1,25 @@
+                      ¿Que es la web?
+===========================================================================
+Navegar en el internet entre diferentes documentos por medio de vinculos.
+
+URL: Uniform Resource Location: Identificador unico de cada documento.
+HTML: Representa el documento en la web (estructura)
+Protocolo de comunicación: TCP/IP(Trasnferir datos mediante la red)
+                            HTTP: Protocolo especifico que permite la transferencia de documentos HTML.
+
+
+
+                  ¿Cómo funciona la web?
+=========================================================================
+
+CLIENTE - SERVIDOR 
+
+Cliente : Por donde realizamos las peticiones (URL)
+|__ Navegadores
+    |__Peticion se da a través de internet
+        |________ Servidores: Dispositivo que almacena y proporciona acceso a la información solicitada.
+                
+
+INTERNET VS WEB
+Internet: Infraestructura fisica y logica que conecta millons de red y dispositivos en todo el mundo.
+WEB: Servicio que opera sobre el internet.
